@@ -1,5 +1,5 @@
 # Nonogram
-Nonogram w Pythonie
+Nonogram w Pythonie. Program używa biblioteki `Tkinter`.
 
 ## Pliki z noogramami
 Pliki z nonogramamy znajdują się w katalogu `nonograms`. Posiadają rozszerzenie `*.nono`.\
